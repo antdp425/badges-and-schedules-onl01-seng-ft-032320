@@ -17,5 +17,5 @@ def assign_rooms(array)
 end
 
 def printer(array)
-  assign_rooms(batch_badge_creator(array))
+  puts "hI"
 end
